@@ -32,4 +32,4 @@ main.py videofile.mp4
 
 **프레임 수를 높이면 비디오 제작에 시간이 많이 들어갑니다**
 
-### 참고한 레파지토리 : https://github.com/ryan4yin/video2chars
+[참고한 레파지토리 ](https://github.com/ryan4yin/video2chars)
